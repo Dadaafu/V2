@@ -8,10 +8,10 @@ import os
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot token here
-bot = telebot.TeleBot('6837590413:AAHTyNf3gecsdowrqIjcwhgtwVGeiiPQt_A')
+bot = telebot.TeleBot('7265875293:AAG8j8yFQQAf_b_5KSpW_XlYwbFsXwhKjT4')
 
 # Admin user IDs
-admin_id = ["5876215496"]
+admin_id = ["5056359328"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
